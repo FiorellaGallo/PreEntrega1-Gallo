@@ -1,0 +1,25 @@
+.nav{    
+    justify-content: center;
+}
+
+
+.seeker{
+    padding-top:0.5rem ;
+    margin-left: 1rem;
+}
+
+.cart{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+}
+
+.number{
+    margin-top: 0.5rem;
+    color: rgb(255, 249, 249);
+    background-color: rgba(79, 160, 110, 0.822);   
+    border-radius: 5rem;
+    font-size: small;
+    
+}
+
