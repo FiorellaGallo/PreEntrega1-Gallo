@@ -1,0 +1,14 @@
+#btn{
+    padding: 5px 15px;
+    color: white;
+    max-width: 150px;
+    border-radius:  4px; 
+    background-color: #ff5e33;
+    background-clip: border-box;
+    border: none;
+    margin: 1rem 1rem;
+    cursor: pointer;
+    transition: all ease-out 120ms; 
+    font-family: 'Quando';
+    font-size: small;
+}
