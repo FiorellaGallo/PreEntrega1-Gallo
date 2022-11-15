@@ -1,0 +1,14 @@
+.card-favicon{
+    display: flex;
+    flex-direction: row;
+    justify-items: flex-start;
+    border: none;
+    color: rgba(190, 190, 190, 0.911);
+   
+   
+}
+
+.card-favicon .favorite{
+    color: rgb(0, 0, 0);
+
+}

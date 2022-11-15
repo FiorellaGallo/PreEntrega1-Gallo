@@ -1,0 +1,25 @@
+
+
+
+.card-img-top{
+    
+    object-fit: cover;
+}
+.card:hover{
+    transform: scale(1.1);
+    transition: 0.3s; 
+}
+
+
+.card-title{
+    font-family: 'Quando';
+    font-size: small;
+    
+}
+.favbtn{
+    display: flex;
+    align-items: flex-start;
+    width: 1rem;
+    border: white;
+
+}
