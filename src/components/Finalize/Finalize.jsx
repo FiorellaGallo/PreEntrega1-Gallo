@@ -2,6 +2,7 @@ import React, {useEffect} from "react";
 import { useParams } from "react-router-dom";
 import swal from 'sweetalert';
 import {Link} from "react-router-dom";
+import MyButton from "../MyButton/myButton";
 
 
 function Finalize() {
