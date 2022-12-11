@@ -1,11 +1,12 @@
 import React, {useEffect} from "react";
 import { useParams } from "react-router-dom";
 import swal from 'sweetalert';
+import {Link} from "react-router-dom";
 
 
 function Finalize() {
   const idOrder = useParams().idOrder;
-  swal (` ${idOrder} product to your cart`, {
+  swal (`Thanks for your purchase.His id is ${idOrder}`, {
     icono: "exito",
     buttons: false,
     timer: 2000,
@@ -16,7 +17,7 @@ function Finalize() {
 
 
   return (
-  <div></div>
+  <div><Link to="/" className='links' ><MyButton> ⇠ Continue purchase </MyButton></Link></div>
   );
 }
 
