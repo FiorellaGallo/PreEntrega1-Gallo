@@ -2,9 +2,9 @@ import { createContext, useState } from "react";
 
 
 export const cartContext = createContext();
-const ContextProvide = cartContext.Provider;
+const ContextProvider = cartContext.Provider;
 
-export function CartContextProvide(props) {
+export function CartContextProvider(props) {
     const [cart, setCart] = useState([]); 
 
     function addToCart(product,count) {
@@ -53,9 +53,9 @@ export function CartContextProvide(props) {
 
 
     return(
-        <ContextProvide value= {{addToCart,cart,itemsInCart, priceInCart,removeItem,clear}}>
+        <ContextProvider value= {{addToCart,cart,itemsInCart, priceInCart,removeItem,clear}}>
         {props.children}
-        </ContextProvide>
+        </ContextProvider>
     )
     
 }

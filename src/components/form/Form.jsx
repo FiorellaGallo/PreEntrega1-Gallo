@@ -1,15 +1,16 @@
 import React, { useContext } from 'react'
 import { createOrder } from '../../services/firestore';
 import { cartContext } from '../../Context/cartContext';
+import { useNavigate } from "react-router-dom";
 import './Form.css';
 
 
 function Form() {
   const { cart, priceInCart } = useContext(cartContext);
+  let navigate = useNavigate();
 
-  function handleCheckout(event) {
+   async function handleCheckout(event) {
     event.preventDefault();
-
     const order = {
       buyer: {
         name: event.target.name.value,
@@ -18,7 +19,7 @@ function Form() {
         direction: `${event.target.street.value}  ${event.target.number.value} ${event.target.department.value}`,
         location: `${event.target.state.value} ${event.target.city.value} ${event.target.postcode.value}`,
         comment: event.target.comment.value,
-        newsletter: event.targent.news.value,
+        newsletter: event.target.news.value,
       },
       items: cart,
       total: priceInCart(),
@@ -26,7 +27,12 @@ function Form() {
     };
 
     console.log(order);
-    //const orderId = createOrder(order);
+
+    const orderId = await createOrder(order);
+    navigate(`/finalize/${orderId}`);
+
+
+    
   }
 
 
@@ -74,7 +80,7 @@ function Form() {
             <span> Subscribe to newsletter</span>
           </label>
           <div className="send">
-            <input onClick={handleCheckout} type="submit" />
+            <input type="submit" />
           </div>
         </form>
       </div>

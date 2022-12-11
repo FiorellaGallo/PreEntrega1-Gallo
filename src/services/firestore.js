@@ -58,6 +58,7 @@ export async function createOrder(order) {
   const docOrder = await addDoc(collectionRef, order);
   console.log(docOrder)
   console.log(docOrder.id)
+  return docOrder.id;
   
 }
 
