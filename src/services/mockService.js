@@ -1,6 +1,4 @@
 function getItems (products,idCategory) {
-    console.log(products);
-    console.log(idCategory);
     return new Promise((resolve)=>{
         if (idCategory === undefined) {
             setTimeout(()=>{
@@ -12,11 +10,9 @@ function getItems (products,idCategory) {
                 let itemsRequested = products.filter(
                     (item) => {
                         
-                        console.log(item);
                         return item.product_type === idCategory}
 
                 );
-                console.log(itemsRequested);
                 resolve(itemsRequested); 
             },500);
             

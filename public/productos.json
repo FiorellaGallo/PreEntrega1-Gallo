@@ -1,9 +1,10 @@
 [
   {
-    "id": 495,
+    "id_product": 495,
     "brand": "maybelline",
     "name": "Maybelline Face Studio Master Hi-Light Light Booster Bronzer",
     "price": "14.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/991799d3e70b8856686979f8ff6dcfe0_ra,w158,h184_pa,w158,h184.png",
@@ -21,10 +22,11 @@
     "product_colors": []
   },
   {
-    "id": 488,
+    "id_product": 488,
     "brand": "maybelline",
     "name": "Maybelline Fit Me Bronzer",
     "price": "10.29",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/d4f7d82b4858c622bb3c1cef07b9d850_ra,w158,h184_pa,w158,h184.png",
@@ -47,10 +49,11 @@
     ]
   },
   {
-    "id": 477,
+    "id_product": 477,
     "brand": "maybelline",
     "name": "Maybelline Facestudio Master Contour Kit",
     "price": "15.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/4f731de249cbd4cb819ea7f5f4cfb5c3_ra,w158,h184_pa,w158,h184.png",
@@ -81,10 +84,11 @@
     ]
   },
   {
-    "id": 468,
+    "id_product": 468,
     "brand": "maybelline",
     "name": "Maybelline Face Studio Master Hi-Light Light Booster Blush",
     "price": "14.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/4621032a92cb428ad640c105b944b39c_ra,w158,h184_pa,w158,h184.png",
@@ -102,10 +106,11 @@
     "product_colors": []
   },
   {
-    "id": 452,
+    "id_product": 452,
     "brand": "maybelline",
     "name": "Maybelline Face Studio Master Hi-Light Light Booster Blush ",
     "price": "14.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/e8c59b78ebeaec5c4b6aeba49a9ff0f6_ra,w158,h184_pa,w158,h184.png",
@@ -123,10 +128,11 @@
     "product_colors": []
   },
   {
-    "id": 439,
+    "id_product": 439,
     "brand": "maybelline",
     "name": "Maybelline Fit Me Blush",
     "price": "10.29",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/53d5f825461117c0d96946e1029510b0_ra,w158,h184_pa,w158,h184.png",
@@ -173,10 +179,11 @@
     ]
   },
   {
-    "id": 414,
+    "id_product": 414,
     "brand": "maybelline",
     "name": "Maybelline Dream Bouncy Blush",
     "price": "11.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/51eacb9efebbaee39399e65ffe3d9416_ra,w158,h184_pa,w158,h184.png",
@@ -211,11 +218,12 @@
     ]
   },
   {
-    "id": 398,
+    "id_product": 398,
     "brand": "maybelline",
     "name": "Maybelline Color Sensational Lipliner",
     "price": "8.29",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/6607c1b7eb717dfbd3c228b61e4c5148_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-color-sensational_14541.html",
@@ -249,10 +257,11 @@
     ]
   },
   {
-    "id": 382,
+    "id_product": 382,
     "brand": "maybelline",
     "name": "Maybelline Dream Smooth Mousse Foundation",
     "price": "14.79",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/fb79e7facf701176d4113527c284613f_ra,w158,h184_pa,w158,h184.png",
@@ -270,10 +279,11 @@
     "product_colors": []
   },
   {
-    "id": 380,
+    "id_product": 380,
     "brand": "maybelline",
     "name": "Maybelline Fit Me Shine-Free Foundation Stick",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/d04e7c2ed65dabe1dca4eed9aa268e95_ra,w158,h184_pa,w158,h184.png",
@@ -316,10 +326,11 @@
     ]
   },
   {
-    "id": 379,
+    "id_product": 379,
     "brand": "maybelline",
     "name": "Maybelline Dream Matte Mousse Foundation",
     "price": "14.79",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/029889b345c76a70e8bb978b73ed1a87_ra,w158,h184_pa,w158,h184.png",
@@ -362,10 +373,11 @@
     ]
   },
   {
-    "id": 366,
+    "id_product": 366,
     "brand": "maybelline",
     "name": "Maybelline Mineral Power Natural Perfecting Powder Foundation",
     "price": "14.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/c77ad2da76259cfd67a9a9432f635bfb_ra,w158,h184_pa,w158,h184.png",
@@ -388,10 +400,11 @@
     ]
   },
   {
-    "id": 354,
+    "id_product": 354,
     "brand": "maybelline",
     "name": "Maybelline Dream Velvet Foundation",
     "price": "18.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/24517c6c81c92eda31cd32b6327c1298_ra,w158,h184_pa,w158,h184.png",
@@ -458,10 +471,11 @@
     ]
   },
   {
-    "id": 353,
+    "id_product": 353,
     "brand": "maybelline",
     "name": "Maybelline Superstay Better Skin Foundation ",
     "price": "14.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/c7d967ef502ecd79ab7ab466c4952d82_ra,w158,h184_pa,w158,h184.png",
@@ -500,10 +514,11 @@
     ]
   },
   {
-    "id": 339,
+    "id_product": 339,
     "brand": "maybelline",
     "name": "Maybelline Dream Wonder Liquid Touch Foundation",
     "price": "14.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/ccb99ad6ac7f31a2a73454bdbda01d99_ra,w158,h184_pa,w158,h184.jpeg",
@@ -526,10 +541,11 @@
     ]
   },
   {
-    "id": 321,
+    "id_product": 321,
     "brand": "maybelline",
     "name": "Maybelline Dream Liquid Mousse",
     "price": "14.79",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/1ca6a4a442b9aa6b5f3d94da77d8846c_ra,w158,h184_pa,w158,h184.png",
@@ -568,10 +584,11 @@
     ]
   },
   {
-    "id": 320,
+    "id_product": 320,
     "brand": "maybelline",
     "name": "Maybelline FIT ME! Matte + Poreless Foundation",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/257993e12625cc45a72ec03636ffa5c5_ra,w158,h184_pa,w158,h184.jpg",
@@ -634,10 +651,11 @@
     ]
   },
   {
-    "id": 317,
+    "id_product": 317,
     "brand": "maybelline",
     "name": "Maybelline Fit Me Foundation with SPF",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/eccb88d484b8c929fd349b0995a5dba2_ra,w158,h184_pa,w158,h184.png",
@@ -672,11 +690,12 @@
     ]
   },
   {
-    "id": 309,
+    "id_product": 309,
     "brand": "maybelline",
     "name": "Maybelline Expert Wear Eye Shadow Quad ",
     "price": "8.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/c924006882e8e313d445a3a5394e4729_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-expert-wear-eye-shadow_79611.html",
@@ -693,10 +712,11 @@
     "product_colors": []
   },
   {
-    "id": 307,
+    "id_product": 307,
     "brand": "maybelline",
     "name": "Maybelline Eyestudio Color Tattoo Concentrated Crayon",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/3f9f894b56e0616e44c5ee01dea45217_ra,w158,h184_pa,w158,h184.png",
@@ -755,10 +775,11 @@
     ]
   },
   {
-    "id": 295,
+    "id_product": 295,
     "brand": "maybelline",
     "name": "Maybelline The Nudes Eye Shadow Palette",
     "price": "17.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/201350fd3e173307ade44520dc87d8fb_ra,w158,h184_pa,w158,h184.png",
@@ -776,11 +797,12 @@
     "product_colors": []
   },
   {
-    "id": 291,
+    "id_product": 291,
     "brand": "maybelline",
     "name": "Maybelline Eye Studio Color Tattoo 24HR Cream Gel Shadow Leather",
     "price": "8.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/cf21d194ab14ee3c527d02682c358a7a_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-eye-studio-color-tattoo_95143.html",
@@ -818,10 +840,11 @@
     ]
   },
   {
-    "id": 286,
+    "id_product": 286,
     "brand": "maybelline",
     "name": "Maybelline The Nudes Eyeshadow Palette in The Blushed Nudes",
     "price": "17.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/49d98e112e77d2a9a0c8fad28df89a1e_ra,w158,h184_pa,w158,h184.png",
@@ -839,11 +862,12 @@
     "product_colors": []
   },
   {
-    "id": 279,
+    "id_product": 279,
     "brand": "maybelline",
     "name": "Maybelline Eye Studio Color Tattoo 24HR Cream Gel Shadow",
     "price": "8.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/c2ddacc79f4fdd3d23664581c76546bc_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-eye-studio-color-tattoo_50692.html",
@@ -877,11 +901,12 @@
     ]
   },
   {
-    "id": 273,
+    "id_product": 273,
     "brand": "maybelline",
     "name": "Maybelline Eye Studio Color Tattoo 24HR Cream Gel Shadow ",
     "price": "8.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/58d07d24e39142e0c5a178b00b6b31f1_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-eye-studio-color-tattoo_67270.html",
@@ -911,11 +936,12 @@
     ]
   },
   {
-    "id": 232,
+    "id_product": 232,
     "brand": "maybelline",
     "name": "Maybelline Line Express Eyeliner",
     "price": "7.29",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/4e88f928ad91c88e2ecb8596431ce799_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-line-express-eyeliner_9738.html",
@@ -932,11 +958,12 @@
     "product_colors": []
   },
   {
-    "id": 230,
+    "id_product": 230,
     "brand": "maybelline",
     "name": "Maybelline Unstoppable Eyeliner",
     "price": "8.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/bab89a9fe13b34235e0dd1f4f44c05cf_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-unstoppable-eyeliner_3737.html",
@@ -962,11 +989,12 @@
     ]
   },
   {
-    "id": 225,
+    "id_product": 225,
     "brand": "maybelline",
     "name": "Maybelline Color Show Kohl Liner",
     "price": "5.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/c2fcd605bbf3941b521fb74bfa942ac6_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-color-show-kohl-liner_101020.html",
@@ -1016,10 +1044,11 @@
     ]
   },
   {
-    "id": 221,
+    "id_product": 221,
     "brand": "maybelline",
     "name": "Maybelline Eye Studio Master Graphic in Striking Black",
     "price": "11.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/9c98f99f2033bb942286fa1bb32b4c51_ra,w158,h184_pa,w158,h184.png",
@@ -1037,10 +1066,11 @@
     "product_colors": []
   },
   {
-    "id": 179,
+    "id_product": 179,
     "brand": "maybelline",
     "name": "Maybelline EyeStudio Master Precise Ink Pen Eyeliner",
     "price": "11.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/6edd2cadd1894a94f264ceb19f3d344b_ra,w158,h184_pa,w158,h184.png",
@@ -1058,10 +1088,11 @@
     "product_colors": []
   },
   {
-    "id": 177,
+    "id_product": 177,
     "brand": "maybelline",
     "name": "Maybelline Line Stiletto Ultimate Precision Liquid Eyeliner",
     "price": "10.29",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/350d6c6c2fa3add8ee40189cd19bfe0a_ra,w158,h184_pa,w158,h184.png",
@@ -1088,10 +1119,11 @@
     ]
   },
   {
-    "id": 172,
+    "id_product": 172,
     "brand": "maybelline",
     "name": "Maybelline Liquid Eyeliner",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/316d25ac5676470d83612b9391678b0d_ra,w158,h184_pa,w158,h184.jpeg",
@@ -1114,10 +1146,11 @@
     ]
   },
   {
-    "id": 170,
+    "id_product": 170,
     "brand": "maybelline",
     "name": "Maybelline Eye Studio Lasting Drama Gel Eyeliner",
     "price": "11.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/2054f702d243c286219e0330af836bf5_ra,w158,h184_pa,w158,h184.png",
@@ -1148,11 +1181,12 @@
     ]
   },
   {
-    "id": 146,
+    "id_product": 146,
     "brand": "maybelline",
     "name": "Maybelline Color Show Nail Lacquer Jewels ",
     "price": "4.49",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/f6239cbcd84fa838c461f020b86924aa_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-color-show-nail-lacquer_96730.html",
@@ -1169,11 +1203,12 @@
     "product_colors": []
   },
   {
-    "id": 145,
+    "id_product": 145,
     "brand": "maybelline",
     "name": "Maybelline Color Show Nail Lacquer Veils ",
     "price": "4.49",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/64cbcfbd001435c3abc3d8f77c16a0bf_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-color-show-nail-lacquer_96731.html",
@@ -1195,11 +1230,12 @@
     ]
   },
   {
-    "id": 133,
+    "id_product": 133,
     "brand": "maybelline",
     "name": "Maybelline Color Show Nail Lacquer ",
     "price": "4.49",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/a05aa31a7e30d9d262ae36d0be2c4f87_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-color-show-nail-lacquer_78068.html",
@@ -1221,10 +1257,11 @@
     ]
   },
   {
-    "id": 97,
+    "id_product": 97,
     "brand": "maybelline",
     "name": "Maybelline Color Sensational Vivid Matte Liquid Lip Colour",
     "price": "12.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/d0b6855d9b603a00f776de498c971b88_ra,w158,h184_pa,w158,h184.png",
@@ -1283,11 +1320,12 @@
     ]
   },
   {
-    "id": 89,
+    "id_product": 89,
     "brand": "maybelline",
     "name": "Maybelline Color Sensational Rebel Bloom Lipcolour ",
     "price": "9.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/fb9e6485500135d94163577da4c3579b_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-color-sensational-rebel_101920.html",
@@ -1329,10 +1367,11 @@
     ]
   },
   {
-    "id": 85,
+    "id_product": 85,
     "brand": "maybelline",
     "name": "Maybelline Lip Studio Color Blur ",
     "price": "11.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/a1151b59f69491a75d9f8d80827bc1ee_ra,w158,h184_pa,w158,h184.png",
@@ -1387,11 +1426,12 @@
     ]
   },
   {
-    "id": 73,
+    "id_product": 73,
     "brand": "maybelline",
     "name": "Maybelline Color Sensational The Buffs Lipcolour",
     "price": "9.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/27afa69db661563a1d6135bb5f6079dd_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-color-sensational-the_88857.html",
@@ -1441,11 +1481,12 @@
     ]
   },
   {
-    "id": 72,
+    "id_product": 72,
     "brand": "maybelline",
     "name": "Maybelline Color Sensational Vivids Lipcolour",
     "price": "9.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/0d31f41c37fd18dfc02daa1671719378_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-color-sensational-vivids_66103.html",
@@ -1487,11 +1528,12 @@
     ]
   },
   {
-    "id": 69,
+    "id_product": 69,
     "brand": "maybelline",
     "name": "Maybelline Color Sensational Creamy Mattes Lipcolour ",
     "price": "9.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/81fd80f898674d00f1860cd0724460f4_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-color-sensational-creamy_100322.html",
@@ -1537,11 +1579,12 @@
     ]
   },
   {
-    "id": 65,
+    "id_product": 65,
     "brand": "maybelline",
     "name": "Maybelline Color Sensational Lipcolour",
     "price": "9.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/b1c627d5a7e341e53754c8dee92d2878_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-color-sensational_14537.html",
@@ -1579,10 +1622,11 @@
     ]
   },
   {
-    "id": 42,
+    "id_product": 42,
     "brand": "maybelline",
     "name": "Maybelline Volum'Express Falsies Big Eyes Mascara",
     "price": "12.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/a28e1387642c86f2d2e0cf446b2137aa_ra,w158,h184_pa,w158,h184.png",
@@ -1605,10 +1649,11 @@
     ]
   },
   {
-    "id": 32,
+    "id_product": 32,
     "brand": "maybelline",
     "name": "Maybelline Define-A-Lash Lengthening \u0026 Defining Mascara",
     "price": "10.79",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/cf9136ade1dd304b8cb81deb4b87e333_ra,w158,h184_pa,w158,h184.jpeg",
@@ -1631,11 +1676,12 @@
     ]
   },
   {
-    "id": 29,
+    "id_product": 29,
     "brand": "maybelline",
     "name": "Maybelline Great Lash - Clear",
     "price": "7.79",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/6cce75ce02a6694e1c89f7d5a68c8174_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-great-lash-clear_3752.html",
@@ -1652,11 +1698,12 @@
     "product_colors": []
   },
   {
-    "id": 23,
+    "id_product": 23,
     "brand": "maybelline",
     "name": "Maybelline Great Lash Big Mascara",
     "price": "7.79",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/0795abd7feaf855f88055e181652d65a_ra,w158,h184_pa,w158,h184.jpeg",
     "product_link": "https://well.ca/products/maybelline-great-lash-big-mascara_15818.html",
@@ -1686,11 +1733,12 @@
     ]
   },
   {
-    "id": 20,
+    "id_product": 20,
     "brand": "maybelline",
     "name": "Maybelline Great Lash Mascara",
     "price": "7.79",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/6b4d354890177a73b4d6630d723c2f21_ra,w158,h184_pa,w158,h184.jpeg",
     "product_link": "https://well.ca/products/maybelline-great-lash-mascara_3735.html",
@@ -1716,11 +1764,12 @@
     ]
   },
   {
-    "id": 14,
+    "id_product": 14,
     "brand": "maybelline",
     "name": "Maybelline Volum' Express Colossal Mascara",
     "price": "9.79",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/5d6e0d96f6dedbc3aadd88d9403cb26e_ra,w158,h184_pa,w158,h184.jpeg",
     "product_link": "https://well.ca/products/maybelline-volum-express-colossal_7663.html",
@@ -1746,10 +1795,11 @@
     ]
   },
   {
-    "id": 12,
+    "id_product": 12,
     "brand": "maybelline",
     "name": "Maybelline Illegal Length Fiber Extensions Mascara",
     "price": "11.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/086bd6bba51f630f60511cdc24c68096_ra,w158,h184_pa,w158,h184.jpeg",
@@ -1772,10 +1822,11 @@
     ]
   },
   {
-    "id": 11,
+    "id_product": 11,
     "brand": "maybelline",
     "name": "Maybelline Volum' Express The Rocket Mascara",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/0b04408a84154f14800e4c9477f8a924_ra,w158,h184_pa,w158,h184.png",
@@ -1802,11 +1853,12 @@
     ]
   },
   {
-    "id": 9,
+    "id_product": 9,
     "brand": "maybelline",
     "name": "Maybelline Great Lash Lots of Lashes Mascara",
     "price": "7.79",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/dfaf77464a8cb52a1a8f2a15e8abf920_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/maybelline-great-lash-lots-of-lashes_50739.html",
@@ -1832,10 +1884,11 @@
     ]
   },
   {
-    "id": 8,
+    "id_product": 8,
     "brand": "maybelline",
     "name": "Maybelline Lash Stiletto Ultimate Length Mascara",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/812b5ae27df9be983052063d52d7ab7a_ra,w158,h184_pa,w158,h184.jpeg",
@@ -1858,11 +1911,12 @@
     ]
   },
   {
-    "id": 7,
+    "id_product": 7,
     "brand": "maybelline",
     "name": "Maybelline Volum'Express the Falsies Mascara",
     "price": "9.79",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/af1f35f15ee64cc1003f1ccfc6451d71_ra,w158,h184_pa,w158,h184.jpeg",
     "product_link": "https://well.ca/products/maybelline-volumexpress-the-falsies_26311.html",
@@ -1884,10 +1938,11 @@
     ]
   },
   {
-    "id": 453,
+    "id_product": 453,
     "brand": "revlon",
     "name": "Revlon Powder Blush ",
     "price": "13.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/dd6ee943412a416ecfe9e4a1b2bed107_ra,w158,h184_pa,w158,h184.jpg",
@@ -1934,10 +1989,11 @@
     ]
   },
   {
-    "id": 417,
+    "id_product": 417,
     "brand": "revlon",
     "name": "Revlon PhotoReady Cream Blush",
     "price": "13.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/1b84cb453bc5527d4ecb11b5967cd135_ra,w158,h184_pa,w158,h184.jpeg",
@@ -1955,10 +2011,11 @@
     "product_colors": []
   },
   {
-    "id": 412,
+    "id_product": 412,
     "brand": "revlon",
     "name": "Revlon Colorstay Moisture Stain",
     "price": "12.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/df00e1e6268dc7d208b993d5692c9772_ra,w158,h184_pa,w158,h184.jpg",
@@ -1976,10 +2033,11 @@
     "product_colors": []
   },
   {
-    "id": 411,
+    "id_product": 411,
     "brand": "revlon",
     "name": "Revlon ColorBurst Balm Stain",
     "price": "11.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/cf54199ffb803951bf6342b59e3c58a5_ra,w158,h184_pa,w158,h184.jpg",
@@ -2026,10 +2084,11 @@
     ]
   },
   {
-    "id": 394,
+    "id_product": 394,
     "brand": "revlon",
     "name": "Revlon ColorStay Lip Liner",
     "price": "11.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/afcbc5e035eab277db61144a9a3de035_ra,w158,h184_pa,w158,h184.jpeg",
@@ -2076,10 +2135,11 @@
     ]
   },
   {
-    "id": 390,
+    "id_product": 390,
     "brand": "revlon",
     "name": "Revlon PhotoReady Insta-Fix Makeup",
     "price": "19.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/c4d5400687c823f37bf21301859c616d_ra,w158,h184_pa,w158,h184.png",
@@ -2134,10 +2194,11 @@
     ]
   },
   {
-    "id": 383,
+    "id_product": 383,
     "brand": "revlon",
     "name": "Revlon Colorstay Whipped Creme Makeup",
     "price": "19.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/037b446c36900da96e12fde1be625a76_ra,w158,h184_pa,w158,h184.jpeg",
@@ -2176,10 +2237,11 @@
     ]
   },
   {
-    "id": 381,
+    "id_product": 381,
     "brand": "revlon",
     "name": "Revlon New Complexion One-Step Makeup",
     "price": "18.29",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/3b9b3cd1bce690e330f335cd696bb098_ra,w158,h184_pa,w158,h184.jpeg",
@@ -2222,10 +2284,11 @@
     ]
   },
   {
-    "id": 337,
+    "id_product": 337,
     "brand": "revlon",
     "name": "Revlon Photoready Airbrush Effect Makeup",
     "price": "19.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/b0d39978c1aeee0d1dd0dfe186e25c75_ra,w158,h184_pa,w158,h184.png",
@@ -2292,10 +2355,11 @@
     ]
   },
   {
-    "id": 336,
+    "id_product": 336,
     "brand": "revlon",
     "name": "Revlon Age Defying Firming + Lifting Makeup",
     "price": "19.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/0215f4c5565bd4e8215969c6aa93e89c_ra,w158,h184_pa,w158,h184.jpeg",
@@ -2318,10 +2382,11 @@
     ]
   },
   {
-    "id": 324,
+    "id_product": 324,
     "brand": "revlon",
     "name": "Revlon ColorStay Makeup for Normal / Dry Skin",
     "price": "19.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/197e268a36cdc0b05fc8758a2d959485_ra,w158,h184_pa,w158,h184.jpeg",
@@ -2356,10 +2421,11 @@
     ]
   },
   {
-    "id": 319,
+    "id_product": 319,
     "brand": "revlon",
     "name": "Revlon ColorStay Makeup for Combination / Oily Skin",
     "price": "19.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/844f8a41bfd962e75295db3b75ad3167_ra,w158,h184_pa,w158,h184.jpeg",
@@ -2390,10 +2456,11 @@
     ]
   },
   {
-    "id": 298,
+    "id_product": 298,
     "brand": "revlon",
     "name": "Revlon PhotoReady Primer, Shadow + Sparkle Palette",
     "price": "14.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/b35505ef545ea7e478d0da882d8e93d8_ra,w158,h184_pa,w158,h184.jpeg",
@@ -2411,10 +2478,11 @@
     "product_colors": []
   },
   {
-    "id": 264,
+    "id_product": 264,
     "brand": "revlon",
     "name": "Revlon PhotoReady Kajal Matte Eye Pencil",
     "price": "11.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/117b7491bce3c01899a12df69d4629e1_ra,w158,h184_pa,w158,h184.png",
@@ -2432,10 +2500,11 @@
     "product_colors": []
   },
   {
-    "id": 226,
+    "id_product": 226,
     "brand": "revlon",
     "name": "Revlon ColorStay Eye Liner",
     "price": "11.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/f8d347e5c094ab100de0f04bc163eb79_ra,w158,h184_pa,w158,h184.jpeg",
@@ -2453,10 +2522,11 @@
     "product_colors": []
   },
   {
-    "id": 193,
+    "id_product": 193,
     "brand": "revlon",
     "name": "Revlon ColorStay Skinny Liquid Liner ",
     "price": "11.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/808647e541dad521fcc1fa0d728dd47e_ra,w158,h184_pa,w158,h184.jpg",
@@ -2487,10 +2557,11 @@
     ]
   },
   {
-    "id": 175,
+    "id_product": 175,
     "brand": "revlon",
     "name": "Revlon ColorStay Liquid Eye Liner",
     "price": "11.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/d02f86bc79a8d2f105672d99474300df_ra,w158,h184_pa,w158,h184.jpeg",
@@ -2517,11 +2588,12 @@
     ]
   },
   {
-    "id": 137,
+    "id_product": 137,
     "brand": "revlon",
     "name": "Revlon Transforming Effects Top Coats",
     "price": "6.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/5a4b4326f96cafe4c8bfc58ad60559e6_ra,w158,h184_pa,w158,h184.jpg",
     "product_link": "https://well.ca/products/revlon-transforming-effects-top_101118.html?cat=678",
@@ -2567,11 +2639,12 @@
     ]
   },
   {
-    "id": 130,
+    "id_product": 130,
     "brand": "revlon",
     "name": "Revlon Top Speed Enamel Nail",
     "price": "6.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/588d0b742409c3ad227d9b9c616e5772_ra,w158,h184_pa,w158,h184.jpeg",
     "product_link": "https://well.ca/products/revlon-top-speed-enamel-nail_31523.html",
@@ -2601,11 +2674,12 @@
     ]
   },
   {
-    "id": 122,
+    "id_product": 122,
     "brand": "revlon",
     "name": "Revlon Nail Enamel",
     "price": "6.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/e960bba3ac7a8cb393b2293a976c2b61_ra,w158,h184_pa,w158,h184.jpeg",
     "product_link": "https://well.ca/products/revlon-nail-enamel_4017.html",
@@ -2739,10 +2813,11 @@
     ]
   },
   {
-    "id": 96,
+    "id_product": 96,
     "brand": "revlon",
     "name": "Revlon Ultra HD Lip Lacquer",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/97f6225468596320404785ab71cb1e02_ra,w158,h184_pa,w158,h184.png",
@@ -2813,10 +2888,11 @@
     ]
   },
   {
-    "id": 93,
+    "id_product": 93,
     "brand": "revlon",
     "name": "Revlon ColorBurst Lacquer Balm",
     "price": "11.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/4992a5ad01b474ae1de4a955d6224aca_ra,w158,h184_pa,w158,h184.jpeg",
@@ -2851,10 +2927,11 @@
     ]
   },
   {
-    "id": 79,
+    "id_product": 79,
     "brand": "revlon",
     "name": "Revlon Ultra HD Matte Lipcolor",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/8e5fad1f09c17ff8b312508a2a7da161_ra,w158,h184_pa,w158,h184.png",
@@ -2885,10 +2962,11 @@
     ]
   },
   {
-    "id": 77,
+    "id_product": 77,
     "brand": "revlon",
     "name": "Revlon ColorStay Ultimate Suede Lipstick",
     "price": "14.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/6ca3ee39a1dde0039b18d0ebdb7c2603_ra,w158,h184_pa,w158,h184.png",
@@ -2983,10 +3061,11 @@
     ]
   },
   {
-    "id": 75,
+    "id_product": 75,
     "brand": "revlon",
     "name": "Revlon Ultra HD Lipstick",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/520ec3a925b375de902b75008f492794_ra,w158,h184_pa,w158,h184.jpg",
@@ -3077,10 +3156,11 @@
     ]
   },
   {
-    "id": 67,
+    "id_product": 67,
     "brand": "revlon",
     "name": "Revlon Matte Lipstick",
     "price": "11.79",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/ee024f34ca91f5fa1358d47284f07fb0_ra,w158,h184_pa,w158,h184.jpeg",
@@ -3107,10 +3187,11 @@
     ]
   },
   {
-    "id": 66,
+    "id_product": 66,
     "brand": "revlon",
     "name": "Revlon ColorStay Ultimate Liquid Lipstick",
     "price": "14.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/6750098db06175dee7493eca3f711fc3_ra,w158,h184_pa,w158,h184.jpeg",
@@ -3157,10 +3238,11 @@
     ]
   },
   {
-    "id": 60,
+    "id_product": 60,
     "brand": "revlon",
     "name": "Revlon Super Lustrous Lipstick",
     "price": "11.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/6618c0f47d043084550818a74e6250aa_ra,w158,h184_pa,w158,h184.jpg",
@@ -3271,10 +3353,11 @@
     ]
   },
   {
-    "id": 57,
+    "id_product": 57,
     "brand": "revlon",
     "name": "Revlon ColorBurst Matte Balm ",
     "price": "11.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/76076d06ebd517f1ae7e359d96d50b32_ra,w158,h184_pa,w158,h184.jpg",
@@ -3317,10 +3400,11 @@
     ]
   },
   {
-    "id": 470,
+    "id_product": 470,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Infallible Pro-Contour Palette in Medium ",
     "price": "19.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/7a31b075cf9c0ae4e6eba9ca61c587a7_ra,w158,h184_pa,w158,h184.png",
@@ -3351,10 +3435,11 @@
     ]
   },
   {
-    "id": 447,
+    "id_product": 447,
     "brand": "l'oreal",
     "name": "L'Oreal Paris True Match",
     "price": "16.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/e4e4827631b874f898d41a90ab3de5a6_ra,w158,h184_pa,w158,h184.jpeg",
@@ -3377,10 +3462,11 @@
     ]
   },
   {
-    "id": 419,
+    "id_product": 419,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Visible Lift Blur Blush ",
     "price": "15.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/4099ce5656b195d2ec1b845d2b678e25_ra,w158,h184_pa,w158,h184.jpeg",
@@ -3407,10 +3493,11 @@
     ]
   },
   {
-    "id": 400,
+    "id_product": 400,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Colour Riche Lip Liner",
     "price": "11.29",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/0d3cb34004a3290519b914ceaa0d67c8_ra,w158,h184_pa,w158,h184.jpeg",
@@ -3461,10 +3548,11 @@
     ]
   },
   {
-    "id": 397,
+    "id_product": 397,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Infallible Never Fail Lip Liner",
     "price": "11.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/0b1191651b7aef22b11e96f8c7c548d4_ra,w158,h184_pa,w158,h184.png",
@@ -3511,10 +3599,11 @@
     ]
   },
   {
-    "id": 350,
+    "id_product": 350,
     "brand": "l'oreal",
     "name": "L'Oreal Paris True Match Lumi Glow Liquid Foundation",
     "price": "16.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/2a38b2c75a247fe6d1038431964dd24c_ra,w158,h184_pa,w158,h184.png",
@@ -3545,10 +3634,11 @@
     ]
   },
   {
-    "id": 345,
+    "id_product": 345,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Visible Lift Blur Foundation ",
     "price": "18.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/c207687e567547445338321ae28c9b96_ra,w158,h184_pa,w158,h184.jpeg",
@@ -3599,10 +3689,11 @@
     ]
   },
   {
-    "id": 335,
+    "id_product": 335,
     "brand": "l'oreal",
     "name": "L'Oreal Paris True Match Lumi Cushion Foundation",
     "price": "26.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/0350aac08c86bccd97c2a5ca26b15ae9_ra,w158,h184_pa,w158,h184.jpg",
@@ -3653,10 +3744,11 @@
     ]
   },
   {
-    "id": 330,
+    "id_product": 330,
     "brand": "l'oreal",
     "name": "L'Oreal Visible Lift Serum Absolute",
     "price": "20.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/39be9facd53cf124ff38e9a25de09e10_ra,w158,h184_pa,w158,h184.jpeg",
@@ -3691,10 +3783,11 @@
     ]
   },
   {
-    "id": 326,
+    "id_product": 326,
     "brand": "l'oreal",
     "name": "L'Oreal Paris True Match Lumi Healthy Luminous Foundation",
     "price": "20.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/7d8276b94863d7cff212d0161b5c632e_ra,w158,h184_pa,w158,h184.jpeg",
@@ -3733,10 +3826,11 @@
     ]
   },
   {
-    "id": 325,
+    "id_product": 325,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Infallible Pro-Matte Foundation",
     "price": "19.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/268da4d7967fad9c153af24ee8d2e026_ra,w158,h184_pa,w158,h184.jpg",
@@ -3791,10 +3885,11 @@
     ]
   },
   {
-    "id": 318,
+    "id_product": 318,
     "brand": "l'oreal",
     "name": "L'Oreal Paris True Match Super Blendable Makeup ",
     "price": "18.79",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/c71a2c6a4f7d41ceb60f068780bcfba5_ra,w158,h184_pa,w158,h184.jpeg",
@@ -3853,10 +3948,11 @@
     ]
   },
   {
-    "id": 311,
+    "id_product": 311,
     "brand": "l'oreal",
     "name": "L'Oreal Colour Riche La Palette Nude in Nude 02",
     "price": "29.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/d6bf791aee472d5cc9d402a4227b10b8_ra,w158,h184_pa,w158,h184.jpg",
@@ -3874,10 +3970,11 @@
     "product_colors": []
   },
   {
-    "id": 260,
+    "id_product": 260,
     "brand": "l'oreal",
     "name": "L'Oreal Infallible Smokissime Powder Eyeliner Pen",
     "price": "12.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/08f663a61b796cb57fd6aef86dbb5cc1_ra,w158,h184_pa,w158,h184.jpg",
@@ -3904,10 +4001,11 @@
     ]
   },
   {
-    "id": 242,
+    "id_product": 242,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Infallible Silkissime Eyeliner",
     "price": "11.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/a132f78e0b9e4aa4cca37c9f05267897_ra,w158,h184_pa,w158,h184.jpeg",
@@ -3954,10 +4052,11 @@
     ]
   },
   {
-    "id": 240,
+    "id_product": 240,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Extra-Intense Liquid Pencil Eyeliner",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/cf225e409760daf4dea62290990008a6_ra,w158,h184_pa,w158,h184.jpeg",
@@ -3980,10 +4079,11 @@
     ]
   },
   {
-    "id": 235,
+    "id_product": 235,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Infallible Never Fail Eye Liner",
     "price": "12.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/2f7610f4a82cc1c7abb8ddc33ab236f0_ra,w158,h184_pa,w158,h184.jpeg",
@@ -4014,11 +4114,12 @@
     ]
   },
   {
-    "id": 228,
+    "id_product": 228,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Colour Riche Le Khol Eyeliner",
     "price": "9.29",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/94a08dc5666ab926584801c34140b29e_ra,w158,h184_pa,w158,h184.jpeg",
     "product_link": "https://well.ca/products/loreal-paris-colour-riche-le-khol_85924.html",
@@ -4044,10 +4145,11 @@
     ]
   },
   {
-    "id": 216,
+    "id_product": 216,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Infallible Black Velvet Liner",
     "price": "13.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/b6ca6fa1ab5021b55d9ca0ca3ed40437_ra,w158,h184_pa,w158,h184.png",
@@ -4065,10 +4167,11 @@
     "product_colors": []
   },
   {
-    "id": 184,
+    "id_product": 184,
     "brand": "l'oreal",
     "name": "L'Oreal Infallible Super Slim 12H Liner",
     "price": "11.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/c8f4a975e002711a67113fcf53b7dad0_ra,w158,h184_pa,w158,h184.jpeg",
@@ -4086,10 +4189,11 @@
     "product_colors": []
   },
   {
-    "id": 181,
+    "id_product": 181,
     "brand": "l'oreal",
     "name": "L'Oreal Telescopic Explosion Waterproof Eyeliner Black",
     "price": "12.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/d8a23eb4d183b3b215d46ef39a6e781b_ra,w158,h184_pa,w158,h184.jpeg",
@@ -4107,10 +4211,11 @@
     "product_colors": []
   },
   {
-    "id": 174,
+    "id_product": 174,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Lineur Intense Felt Tip Liquid",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/86cde1cfdb47caee6387cdfc7ac0696e_ra,w158,h184_pa,w158,h184.jpeg",
@@ -4133,10 +4238,11 @@
     ]
   },
   {
-    "id": 166,
+    "id_product": 166,
     "brand": "l'oreal",
     "name": "L'Oreal Infallible Nail Polish in Always a Lady",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/5c2071e6bcb6457ea57fcf3725e2aa92_ra,w158,h184_pa,w158,h184.jpg",
@@ -4154,10 +4260,11 @@
     "product_colors": []
   },
   {
-    "id": 164,
+    "id_product": 164,
     "brand": "l'oreal",
     "name": "L'Oreal Infallible Nail Polish in Iconic Indigo ",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/23d8770e2765d0ecd6faf613e5817cea_ra,w158,h184_pa,w158,h184.jpg",
@@ -4175,10 +4282,11 @@
     "product_colors": []
   },
   {
-    "id": 162,
+    "id_product": 162,
     "brand": "l'oreal",
     "name": "L'Oreal Infallible Nail Polish in Ocean Infini",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/b90ec1716dfb0c840e32da08d95acc7d_ra,w158,h184_pa,w158,h184.jpg",
@@ -4196,10 +4304,11 @@
     "product_colors": []
   },
   {
-    "id": 158,
+    "id_product": 158,
     "brand": "l'oreal",
     "name": "L'Oreal Infallible Nail Polish in Petale Revival",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/8bfba92993344fec7c4179ddd74ddde4_ra,w158,h184_pa,w158,h184.jpg",
@@ -4217,10 +4326,11 @@
     "product_colors": []
   },
   {
-    "id": 154,
+    "id_product": 154,
     "brand": "l'oreal",
     "name": "L'Oreal Infallible Nail Polish in Irresistible Bonbon",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/69ca8bd686b0c24e44a2033f4aacf035_ra,w158,h184_pa,w158,h184.jpg",
@@ -4238,11 +4348,12 @@
     "product_colors": []
   },
   {
-    "id": 142,
+    "id_product": 142,
     "brand": "l'oreal",
     "name": "L'Oreal Colour Riche Gold Dust Nail Colour",
     "price": "7.79",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/bfca70deb100137b3f23bb3a0f887420_ra,w158,h184_pa,w158,h184.jpg",
     "product_link": "https://well.ca/products/loreal-colour-riche-gold-dust-nail_102185.html",
@@ -4280,11 +4391,12 @@
     ]
   },
   {
-    "id": 141,
+    "id_product": 141,
     "brand": "l'oreal",
     "name": "L'Oreal Extraordinaire Gel Lacque Nail Colour",
     "price": "8.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/284a3bf668e98f69cc51a58ff9de1d1a_ra,w158,h184_pa,w158,h184.jpg",
     "product_link": "https://well.ca/products/loreal-extraordinaire-gel-lacque_102255.html",
@@ -4301,11 +4413,12 @@
     "product_colors": []
   },
   {
-    "id": 134,
+    "id_product": 134,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Colour Riche Collection Exclusive Nail Colour",
     "price": "7.79",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/dec895e124125238709b4dbac19d53c0_ra,w158,h184_pa,w158,h184.jpeg",
     "product_link": "https://well.ca/products/loreal-paris-colour-riche_96634.html",
@@ -4343,10 +4456,11 @@
     ]
   },
   {
-    "id": 117,
+    "id_product": 117,
     "brand": "l'oreal",
     "name": "L'Oreal Infallible Nail Polish in Keep Magenta",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/92adb254b0183b5652c581280301cb93_ra,w158,h184_pa,w158,h184.jpg",
@@ -4364,10 +4478,11 @@
     "product_colors": []
   },
   {
-    "id": 106,
+    "id_product": 106,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Colour Riche Le Matte \u0026 La Lacque Lip Colour",
     "price": "11.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/a368eac7a50f7aa3fcc773b06915eb39_ra,w158,h184_pa,w158,h184.png",
@@ -4418,10 +4533,11 @@
     ]
   },
   {
-    "id": 91,
+    "id_product": 91,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Colour Riche Collection Exclusive Pure Reds",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/5d0df885cb5721b74b32f64884736ce4_ra,w158,h184_pa,w158,h184.jpg",
@@ -4464,10 +4580,11 @@
     ]
   },
   {
-    "id": 84,
+    "id_product": 84,
     "brand": "l'oreal",
     "name": "L'Oreal Color Riche Extraordinaire Lip Color",
     "price": "13.96",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/739bc21253ce772c2b2e7ad40d9d3f44_ra,w158,h184_pa,w158,h184.jpeg",
@@ -4490,10 +4607,11 @@
     ]
   },
   {
-    "id": 81,
+    "id_product": 81,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Colour Riche Crystal Shine",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/6709b779907bbb8410a81c3156ac5a1c_ra,w158,h184_pa,w158,h184.jpeg",
@@ -4516,10 +4634,11 @@
     ]
   },
   {
-    "id": 78,
+    "id_product": 78,
     "brand": "l'oreal",
     "name": "L'Oreal Infallible Lipstick ",
     "price": "13.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/8768b6e9ad0890545f5f261980727caa_ra,w158,h184_pa,w158,h184.jpg",
@@ -4594,10 +4713,11 @@
     ]
   },
   {
-    "id": 74,
+    "id_product": 74,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Colour Riche Collection Exclusive Lip Colour ",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/a9c19212339fb2ed792af559b2a4208d_ra,w158,h184_pa,w158,h184.jpeg",
@@ -4640,10 +4760,11 @@
     ]
   },
   {
-    "id": 68,
+    "id_product": 68,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Colour Riche Lipstick",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/5409595e1888807b979036e77ef7e496_ra,w158,h184_pa,w158,h184.jpeg",
@@ -4694,10 +4815,11 @@
     ]
   },
   {
-    "id": 51,
+    "id_product": 51,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Voluminous Butterfly Midnight Black Mascara",
     "price": "13.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/cd24f2eacba5d03d916a924afaadbee5_ra,w158,h184_pa,w158,h184.jpeg",
@@ -4715,10 +4837,11 @@
     "product_colors": []
   },
   {
-    "id": 47,
+    "id_product": 47,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Voluminous Million Lashes Excess Mascara ",
     "price": "13.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/47b1c14f64fe1e4b6ad46fcd67a34012_ra,w158,h184_pa,w158,h184.jpeg",
@@ -4736,10 +4859,11 @@
     "product_colors": []
   },
   {
-    "id": 41,
+    "id_product": 41,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Voluminous Butterfly Mascara ",
     "price": "13.49",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/3f10d95aaf893f1f0cfdd62b803f4212_ra,w158,h184_pa,w158,h184.jpeg",
@@ -4770,10 +4894,11 @@
     ]
   },
   {
-    "id": 25,
+    "id_product": 25,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Extra Volume Collagen Mascara",
     "price": "13.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/7bcefaf1f12f609b2d3d1df2cfbcf6db_ra,w158,h184_pa,w158,h184.jpeg",
@@ -4796,10 +4921,11 @@
     ]
   },
   {
-    "id": 19,
+    "id_product": 19,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Double Extend Beauty Tubes",
     "price": "14.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/45fea1eb913d55d6e1586ea66c1c82a0_ra,w158,h184_pa,w158,h184.jpeg",
@@ -4822,10 +4948,11 @@
     ]
   },
   {
-    "id": 18,
+    "id_product": 18,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Telescopic Mascara",
     "price": "13.79",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/a5add7c57e2a69456749c0e8263175f7_ra,w158,h184_pa,w158,h184.jpeg",
@@ -4848,11 +4975,12 @@
     ]
   },
   {
-    "id": 13,
+    "id_product": 13,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Voluminous Volume Building Mascara",
     "price": "9.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/c9288fc106afdf3f7039a5128e0f621d_ra,w158,h184_pa,w158,h184.jpeg",
     "product_link": "https://well.ca/products/loreal-paris-voluminous-volume_4415.html",
@@ -4878,10 +5006,11 @@
     ]
   },
   {
-    "id": 10,
+    "id_product": 10,
     "brand": "l'oreal",
     "name": "L'Oreal Paris Voluminous Million Lashes Mascara",
     "price": "13.29",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/7a372820b4a151ec62a6ce4261948421_ra,w158,h184_pa,w158,h184.jpeg",
@@ -4916,10 +5045,11 @@
     ]
   },
   {
-    "id": 505,
+    "id_product": 505,
     "brand": "annabelle",
     "name": "Annabelle Biggy Bronzer Haute Gold",
     "price": "11.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/0bd612799d7958f7b1b98cc02bad5d09_ra,w158,h184_pa,w158,h184.jpg",
@@ -4946,11 +5076,12 @@
     ]
   },
   {
-    "id": 464,
+    "id_product": 464,
     "brand": "annabelle",
     "name": "Annabelle Blush ",
     "price": "7.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/0af800d01a052da93b9145fb59f849ba_ra,w158,h184_pa,w158,h184.jpg",
     "product_link": "https://well.ca/products/annabelle-blush_108726.html",
@@ -4988,11 +5119,12 @@
     ]
   },
   {
-    "id": 399,
+    "id_product": 399,
     "brand": "annabelle",
     "name": "Annabelle Stay Sharp Waterproof Lipliner",
     "price": "9.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/bc487b5ce253ed22f045302a4f0b051c_ra,w158,h184_pa,w158,h184.jpg",
     "product_link": "https://well.ca/products/annabelle-stay-sharp-waterproof_97733.html",
@@ -5034,10 +5166,11 @@
     ]
   },
   {
-    "id": 332,
+    "id_product": 332,
     "brand": "annabelle",
     "name": "Annabelle SkinTrue Foundation",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/c1b6c4f04c4f2c43ec1331049e65c280_ra,w158,h184_pa,w158,h184.png",
@@ -5076,11 +5209,12 @@
     ]
   },
   {
-    "id": 257,
+    "id_product": 257,
     "brand": "annabelle",
     "name": "Annabelle Retractable Eyeliner",
     "price": "9.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/d579558b853bc13b92292106cfc2ed15_ra,w158,h184_pa,w158,h184.png",
     "product_link": "https://well.ca/products/annabelle-retractable-eyeliner_97807.html",
@@ -5106,11 +5240,12 @@
     ]
   },
   {
-    "id": 253,
+    "id_product": 253,
     "brand": "annabelle",
     "name": "Annabelle Smudgeliner ",
     "price": "8.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/541b71a4d119bdae25eb1c3690bacf68_ra,w158,h184_pa,w158,h184.jpg",
     "product_link": "https://well.ca/products/annabelle-smudgeliner_97765.html",
@@ -5132,11 +5267,12 @@
     ]
   },
   {
-    "id": 249,
+    "id_product": 249,
     "brand": "annabelle",
     "name": "Annabelle Stay Sharp Waterproof Kohl Eyeliner",
     "price": "9.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/e1b909a32d2c8a8075ac11972511e936_ra,w158,h184_pa,w158,h184.jpg",
     "product_link": "https://well.ca/products/annabelle-stay-sharp-waterproof-kohl_97762.html",
@@ -5178,11 +5314,12 @@
     ]
   },
   {
-    "id": 246,
+    "id_product": 246,
     "brand": "annabelle",
     "name": "Annabelle Smoothliner ",
     "price": "6.99",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/25372c697046520c10607be4c235d3ba_ra,w158,h184_pa,w158,h184.jpg",
     "product_link": "https://well.ca/products/annabelle-smoothliner_97768.html",
@@ -5204,10 +5341,11 @@
     ]
   },
   {
-    "id": 209,
+    "id_product": 209,
     "brand": "annabelle",
     "name": "Annabelle EyeInk2 Liquid Eyeliner Duo",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/e36fc76e51587b115b3358c336d0fb50_ra,w158,h184_pa,w158,h184.png",
@@ -5234,11 +5372,12 @@
     ]
   },
   {
-    "id": 207,
+    "id_product": 207,
     "brand": "annabelle",
     "name": "Annabelle Glitterama Liquid Eyeliner",
     "price": "8.96",
-    "price_sign": null,
+
+"stock":"20",    "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/295d6b52d5dc093aa4f7ce001ba30c58_ra,w158,h184_pa,w158,h184.jpeg",
     "product_link": "https://well.ca/products/annabelle-glitterama-liquid-eyeliner_97305.html",
@@ -5260,10 +5399,11 @@
     ]
   },
   {
-    "id": 203,
+    "id_product": 203,
     "brand": "annabelle",
     "name": "Annabelle EyeInk2 Mistake Proof Eyeliner + Corrector",
     "price": "10.99",
+    "stock":"20",
     "price_sign": null,
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/8ca9c5677e8b27321069490cc08b3d46_ra,w158,h184_pa,w158,h184.png",

@@ -1,20 +1,45 @@
 import "./ItemDetail.css";
+import Count from "../Count/Count";
+import { useContext } from "react";
+import { cartContext } from "../../Context/cartContext";
+import swal from 'sweetalert';
 
-function ItemDetail({product}) {
+function ItemDetail({ product }) {
+    const { addToCart } = useContext(cartContext);
+
+    function onAddToCart(count) {
+        swal (`You added ${count} product to your cart`, {
+            icono: "exito",
+            buttons: false,
+            timer: 2000,
+        })
+        addToCart(product, count);
+    }
+
+    /*function 
+    };*/
+
     return (
-        <div className="detail" style={{width: "50rem"}}>
-            <img src={product.image_link} className="img-product" alt="..."/>
+        <div className="fond" style={{ height: "100%" }}>
+            <div className="detail">
+                <div className="img-product">
+                    <img src={product.image_link} alt="..." />
+                </div>
                 <div className="card-detail">
                     <h5 className="title-img">{product.name}</h5>
                     <p className="text-img">{product.description}</p>
                     <h6>${product.price}</h6>
-                    <button  onClick={handleClick} className="btn " style={{backgroundColor:"#ff5e33", }}>Buy</button>
+                    <Count
+                        product={product}
+                        onAddToCart={onAddToCart}
+                        itemDetailCalled={true}
+                    />
+                   
                 </div>
+
+            </div>
         </div>
-    )
-}
-const handleClick = () =>{
-    alert("Próximamente...");
+    );
 }
 
 export default ItemDetail;

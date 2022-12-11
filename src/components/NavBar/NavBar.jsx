@@ -5,16 +5,16 @@ import {Link} from "react-router-dom";
 function NavBar() {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-dark bg-dark ">
+      <nav className="navbar navbar-expand-lg navbar-dark " style={{backgroundColor:"rgb(34, 39, 48)"}}>
         <div className="container-fluid ">
-          <div className="collapse navbar-collapse nav " id="navbarNavDropdown">
-            <Link className="navbar-brand " to="/">Logo</Link>
-            <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-              <span className="navbar-toggler-icon"></span>
-            </button>
-            <ul className="navbar-nav ">
-              <li className="nav-item ">
-                <Link className="nav-link" to="/category/bronzer">Bronzer</Link>
+        <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span></button>
+          <div className="collapse navbar-collapse nav " id="navbarScroll">
+            <Link className="navbar-brand " to="/"><img src={`${process.env.PUBLIC_URL}/logo.png`} className="logo"></img></Link>
+           
+            <ul className="navbar-nav " >
+              <li className="nav-item " >
+                <Link className="nav-link" to="/category/bronzer" >Bronzer</Link>
               </li>
               <li className="nav-item ">
                 <Link className="nav-link" to="/category/eyeshadow">Eyeshadow</Link>
