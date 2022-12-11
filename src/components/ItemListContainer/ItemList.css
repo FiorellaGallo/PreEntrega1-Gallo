@@ -3,6 +3,7 @@
     grid-template-columns: repeat(4,0.1fr);
     grid-gap:3rem;
     justify-content: center;
+    padding-bottom: 5rem;
       
 }
 .card{
@@ -11,8 +12,25 @@
 }
 
 .card-body{
-  background-color: rgba(0, 0, 0, 0.822); 
+  background-color: rgb(34, 39, 48);
 }
 
+.logo-init{
+  display: flex;
+  justify-content: center;
+  margin-top: -10rem;
+  margin-bottom: 3rem;
+  border-radius: 5rem;
+}
+
+@media (max-width: 480px){
+  .cards{
+    grid-template-columns: repeat(2,0.1fr);
+    grid-gap: 1rem;
+    padding-bottom: 1rem;
+  }
+
+  
+}
 
 

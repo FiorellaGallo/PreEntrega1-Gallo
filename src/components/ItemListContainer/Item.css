@@ -1,19 +1,23 @@
 
 
 
-.card-img-top{
+#card-img-top{
+    display: flex;
+    align-items: center;
+    width: fit-content;
     
-    object-fit: cover;
+    
 }
+
 .card:hover{
     transform: scale(1.1);
-    transition: 0.3s; 
+    transition: 0.5s; 
 }
 
 
 .card-title{
-    font-family: 'Quando';
-    font-size: small;
+    font-family: 'Simonetta', cursive;
+    font-size: medium;
     
 }
 .favbtn{
@@ -21,5 +25,22 @@
     align-items: flex-start;
     width: 1rem;
     border: white;
+
+}
+
+
+.link{
+    text-decoration: none;
+}
+
+.card{
+    width: 15rem;
+}
+
+@media (max-width: 480px){
+    .card{
+        width: 10rem;
+        
+    }
 
 }

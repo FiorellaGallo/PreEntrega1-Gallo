@@ -1,27 +1,37 @@
 @import url(https://fonts.googleapis.com/css?family=Quando);
+
+.fond{
+    display: flex;
+    justify-content: center;
+} 
+
+
 .detail{
     
     display: flex;
     flex-direction: row;
+    align-items: center;
     margin-top: 10rem;
-    margin-left: 25%;
-     
-  box-shadow: rgba(0, 0, 0, 0.966) 0px 2px 4px, rgba(61, 61, 61, 0.952) 0px 7px 13px -3px, rgba(112, 111, 111, 0.938) 0px -3px 0px inset;
+    background-color: rgb(255, 251, 251);
+    box-shadow: rgba(47, 53, 61, 0.959) 0px 1px 1px, rgba(69, 74, 85, 0.959) 0px 0px 1px 1px;
+    width: 50rem;
    
     
 }
 
+
 .title-img{
-    color: white;
+    color: rgb(255, 255, 255);
     margin-top: 1rem;
     margin-bottom: 1rem;
     margin-left: 3rem;
     
+    
 }
 
+
 .card-detail{
-    background-color: rgba(0, 0, 0, 0.822); 
-    width: 100%;
+    background-color: rgb(39, 40, 48); 
     color: rgb(255, 255, 255);
     font-family: 'Quando';
     font-size: small;
@@ -36,5 +46,26 @@
 }
 
 .img-product{
-    width: 20rem;
+    display: flex;
+    align-items: center;
+    margin: 2rem;
+    width: fit-content;
+    
+}
+.swal-text{
+    color: rgb(0, 0, 0) ;
+
+}
+
+@media (max-width: 480px){
+    .detail{
+        flex-direction: column;
+        width: 16rem;
+        margin-top: 4rem; 
+        margin-bottom: 2rem;
+    }
+    
+    .title-img{
+       margin-left: 0;
+    }
 }

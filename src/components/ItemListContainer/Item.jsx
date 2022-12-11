@@ -5,7 +5,7 @@ import "./Item.css";
 
 function Item({products}) {
     return (
-        <div key={products.id} className="card" style={{ width: "15rem" }}>
+        <div key={products.id} className="card" >
             <div className="favbtn">
             <ToggleButton icon={
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
@@ -13,10 +13,12 @@ function Item({products}) {
               </svg>
             } />
             </div>
-            <img src={products.image_link} className="card-img-top" ></img>
+            <div className="card-img-top">
+            <img src={products.image_link}  ></img>
+            </div>
             <div className="card-body">
                 <h5 className="card-title">{products.name}</h5>
-                <Link to={`/detail/${products.id}`}>
+                <Link to={`/detail/${products.id}`} className='link' >
                     <MyButton>Ver más</MyButton>
                 </Link>
             </div>

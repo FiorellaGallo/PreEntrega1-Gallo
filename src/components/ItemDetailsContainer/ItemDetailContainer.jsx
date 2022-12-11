@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import { getSingleItem } from "../../services/mockService";
+import { getSingleItem } from "../../services/firestore";
 import ItemDetail from "./ItemDetail";
 
 
@@ -9,9 +9,9 @@ function ItemDetailContainer() {
     const { idItem } = useParams();
 
     async function itemState() {
-        let response = await fetch(`${process.env.PUBLIC_URL}/productos.json`)
-        let products = await response.json();
-        let singleProduct = await getSingleItem(idItem, products);
+        
+       
+        let singleProduct = await getSingleItem(idItem);
         setProduct(singleProduct);
     }
     useEffect(() => {
@@ -22,10 +22,6 @@ function ItemDetailContainer() {
         product ?  <ItemDetail product={product}/> : ""
        
     )
-
-
-
-
 
 }
 

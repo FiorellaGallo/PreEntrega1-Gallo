@@ -1,0 +1,33 @@
+.count-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  
+  
+  
+}
+.button-container{
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(252, 252, 252);
+  border-radius: 2rem;
+  border: solid rgb(73, 73, 73) 1px;
+  
+}
+
+
+.buttonCount {
+  
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  color: rgb(71, 71, 71);
+}
+
+
+.number {
+  font-size: 1.1rem;
+  width: 2rem;
+  font-family: 'simonetta', cursive;
+}

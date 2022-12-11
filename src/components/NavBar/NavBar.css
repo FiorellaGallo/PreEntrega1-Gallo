@@ -1,13 +1,23 @@
-@import url(https://fonts.googleapis.com/css?family=Quando);
+@import url('https://fonts.googleapis.com/css2?family=Simonetta&display=swap');
 
-.nav{    
+.nav{   
     justify-content: center;
+    width: 100%;
+
 }
 
-.seeker{
-    padding-top:0.5rem ;
-    margin-left: 1rem;
+.logo{
+    width: 5rem;
+    object-fit: cover;
+    border-radius: 5rem;
 }
+
+.logo:hover{
+    transform: scale(1.1);
+    transition: 0.5s; 
+}
+
+
 
 .cart{
     display: flex;
@@ -17,22 +27,35 @@
 }
 
 .nav-item{
-    font-family: Quando;
-   
-    font-size: small;
+    font-family: 'Simonetta', cursive;
+    font-weight: 200;
+    font-size: medium;
     margin-left: 1.5rem;
 }
 
- 
-      
+ .cart-number{
+    color: rgb(255, 255, 255);
+   
+ }
 
-
-.number{
-    margin-top: 0.5rem;
-    color: rgb(255, 249, 249);
-    background-color: rgba(79, 160, 110, 0.822);   
-    border-radius: 5rem;
-    font-size: small;
+   
+ #magnifyingGlass[type=text] {
+    width: 50%;
+    -webkit-transition:  0.4s ease-in-out;
+    transition:  0.4s ease-in-out;
     
-}
+  }
+  
+  
+  #magnifyingGlass[type=text]:focus {
+    width: 90%;
+  }
+
+  .input-group{
+    height: 2rem;
+    margin-left: 2rem;
+    margin-top: 0.1rem;
+  } 
+
+
 
