@@ -26,18 +26,11 @@ function Form() {
       date: new Date(),
     };
 
-    console.log(order);
 
     const orderId = await createOrder(order);
     navigate(`/finalize/${orderId}`);
-
-
     
   }
-
-
-
-
 
   return (
     <div className='formContainer'>
@@ -80,7 +73,7 @@ function Form() {
             <span> Subscribe to newsletter</span>
           </label>
           <div className="send">
-            <input type="submit" />
+            <input type="submit" value='Send' />
           </div>
         </form>
       </div>
