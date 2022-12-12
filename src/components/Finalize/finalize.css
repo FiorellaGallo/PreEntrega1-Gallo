@@ -1,0 +1,31 @@
+.finalize{
+    display: flex;
+    flex-direction: column;
+   height: 70vh;
+   align-items: center;
+   justify-content: center;
+}
+
+.thanksContainer{
+    display: flex;
+    flex-direction: column;
+   width: 50%;
+ 
+   background-color: rgb(255, 255, 255);
+   border-radius: 1rem;
+   border: solid burlywood 2px;
+}
+
+
+.thanks{
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    color: rgb(0, 0, 0);
+
+}
+
+.numOrder{
+    color: rgb(0, 0, 0);
+    font-size: medium;
+}
+

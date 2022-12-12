@@ -12,17 +12,20 @@ function ItemListContainer() {
 
 
     const getItemsAsync =  async () => {
+        console.log(searchItem);
         if (!idCategory) {
+            console.log("Ingresa sin category");
             getItems()
             .then((products) => {
-                if (searchItem !== false && searchItem !== null && searchItem !== "") return handleSearch()
+                if (searchItem !== false && searchItem !== null && searchItem !== "" && productsList) return handleSearch(products)
                 setProductsList(products);
             });  
         }else{
             getItemsByCategory(idCategory)
             .then((products) => {
 
-                if (searchItem !== false && searchItem !== null && searchItem !== "") return handleSearch()
+                console.log("Antes de filtrar",products);
+                if (searchItem !== false && searchItem !== null && searchItem !== "" && productsList) return handleSearch(products)
                 setProductsList(products);
             }); 
         }
@@ -34,14 +37,19 @@ function ItemListContainer() {
     }, [idCategory, searchItem]);
 
 
-    function handleSearch() {
-        if (searchItem !== false && searchItem !== null && searchItem !== "") {
-            const newProductList = productsList
-            const search = newProductList.filter((item)=> item.name.toLowerCase().includes(searchItem.toLowerCase()));
-            setProductsList(search); 
+    function handleSearch(products) {
+        if (searchItem !== false && searchItem !== null && searchItem !== "" && productsList) {
+            console.log("ingresa al filtrado con:::::", productsList);
+
+                const search = products.filter((item)=> item.name.toLowerCase().includes(searchItem.toLowerCase()));
+                console.log("Finaliza filtrado con::::",search);
+                setProductsList(search); 
+            
         }
     }
 
+    
+   
 
     return (
         <div style={{marginTop:"10rem"}}>

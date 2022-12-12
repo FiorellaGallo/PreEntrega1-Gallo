@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import MyButton from "../MyButton/myButton";
 import "./Count.css";
-//  itemDetailCalled indica de donde llamo el componente.
+
 
 function Count({ product, onAddToCart, changeCountProduct, itemDetailCalled }) {
     let [count, setCount] = useState(product.count ? product.count : 0);

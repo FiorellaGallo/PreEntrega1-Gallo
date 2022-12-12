@@ -16,8 +16,6 @@ function ItemDetail({ product }) {
         addToCart(product, count);
     }
 
-    /*function 
-    };*/
 
     return (
         <div className="fond" style={{ height: "100%" }}>
